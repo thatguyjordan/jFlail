@@ -1,0 +1,31 @@
+{
+	"code": "Items.Weapons.PlatinumFlail",
+	"displayName": "Platinum Flail",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,15,0],	
+	"rare": 0,
+	"useStyle": 5,
+	"useAnimation": 40,
+	"useTime": 40,
+	"damage": 20,
+	"knockback": 8,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:PFBall",
+	"shootSpeed": 13,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Platinum Bar": 12, "Chain": 3 }, 
+		"tiles": ["Anvil"],
+		"creates": 1	
+	}]
+}

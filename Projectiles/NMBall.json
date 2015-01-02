@@ -1,0 +1,13 @@
+{
+	"displayName": "Nightmare Ball",
+	"size": [38, 38],
+	"aiStyle": 15,
+	"timeLeft": 3600,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 11,
+	"scale": 1.0,
+	"damage": 20,
+	"melee": true
+}

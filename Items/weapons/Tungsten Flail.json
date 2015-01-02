@@ -1,0 +1,31 @@
+{
+	"code": "Items.Weapons.TungstenFlail",
+	"displayName": "Tungsten Flail",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,9,0],	
+	"rare": 0,
+	"useStyle": 5,
+	"useAnimation": 49,
+	"useTime": 49,
+	"damage": 16,
+	"knockback": 6.5,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:TFBall",
+	"shootSpeed": 12,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Tungsten Bar": 12, "Chain": 3 }, 
+		"tiles": ["Anvil"],
+		"creates": 1	
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	"code": "Webbed",
+	"displayName": "Webbed",
+	"tip": "You are stuck in webs",
+	"debuff": true,
+	"vanityPet": false,
+	"lightPet": false,
+	"enchantment": false,
+	"noTimer": false
+}

@@ -1,0 +1,31 @@
+{
+	"code": "Items.Weapons.TinFlail",
+	"displayName": "Tin Flail",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,1,50],	
+	"rare": 0,
+	"useStyle": 5,
+	"useAnimation": 50,
+	"useTime": 50,
+	"damage": 11,
+	"knockback": 5,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:TiFBall",
+	"shootSpeed": 10,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Tin Bar": 12, "Chain": 3 }, 
+		"tiles": ["Anvil"],
+		"creates": 1	
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	"displayName": "ChunkProj",
+	"size": [14, 8],
+	"aiStyle": 2,
+	"timeLeft": 180,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": false,
+	"hide": false,
+	"penetrate": 2,
+	"scale": 1.0,
+	"damage": 7,
+	"melee": true
+}

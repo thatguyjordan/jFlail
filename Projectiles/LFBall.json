@@ -1,0 +1,13 @@
+{
+	"displayName": "Lead Flail Ball",
+	"size": [24, 24],
+	"aiStyle": 15,
+	"timeLeft": 3600,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 3,
+	"scale": 1.0,
+	"damage": 20,
+	"melee": true
+}

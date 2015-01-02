@@ -1,0 +1,32 @@
+{
+	"code": "Items.Weapons.SkullAndBones",
+	"displayName": "Skull And Bones",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,20,0],	
+	"rare": 1,
+	"useStyle": 5,
+	"useAnimation": 38,
+	"useTime": 38,
+	"damage": 26,
+	"knockback": 5,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:SaBBall",
+	"shootSpeed": 17,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+
+		"items": { "Cobweb": 15, "Bone": 25, "Chain": 3 }, 
+		"tiles": [ "Anvil" ],  
+		"creates": 1
+	}]
+}

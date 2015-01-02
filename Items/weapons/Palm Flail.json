@@ -1,0 +1,31 @@
+{
+	"code": "Items.Weapons.PalmFlail",
+	"displayName": "Palm flail",
+	"size": [30, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,0,5],	
+	"rare": 0,
+	"useStyle": 5,
+	"useAnimation": 58,
+	"useTime": 58,
+	"damage": 4,
+	"knockback": 14,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:PaFBall",
+	"shootSpeed": 6.5,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Palm Wood": 25, "Chain": 3 }, 
+		"tiles": [ "Work Bench" ], 
+		"creates": 1	
+	}]
+}

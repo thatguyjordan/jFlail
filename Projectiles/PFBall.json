@@ -1,0 +1,13 @@
+{
+	"displayName": "Platinum Flail Ball",
+	"size": [26, 26],
+	"aiStyle": 15,
+	"timeLeft": 3600,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 6,
+	"scale": 1.0,
+	"damage": 20,
+	"melee": true
+}

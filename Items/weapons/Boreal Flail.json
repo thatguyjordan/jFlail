@@ -1,0 +1,31 @@
+{
+	"code": "Items.Weapons.BorealFlail",
+	"displayName": "Boreal flail",
+	"size": [36, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,0,5],	
+	"rare": 0,
+	"useStyle": 5,
+	"useAnimation": 58,
+	"useTime": 58,
+	"damage": 7,
+	"knockback": 8,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:BFBall",
+	"shootSpeed": 8.8,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Boreal Wood": 25, "Rope": 3 }, 
+		"tiles": [ "Work Bench" ], 
+		"creates": 1	
+	}]
+}

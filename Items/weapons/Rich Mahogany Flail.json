@@ -1,0 +1,31 @@
+{
+	"code": "Items.Weapons.RichMahoganyFlail",
+	"displayName": "RichMahogany flail",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,0,5],	
+	"rare": 0,
+	"useStyle": 5,
+	"useAnimation": 58,
+	"useTime": 58,
+	"damage": 9,
+	"knockback": 9,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:RMBall",
+	"shootSpeed": 9,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Rich Mahogany": 25, "Chain": 3 }, 
+		"tiles": [ "Work Bench" ], 
+		"creates": 1	
+	}]
+}

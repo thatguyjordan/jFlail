@@ -1,0 +1,13 @@
+{
+	"displayName": "Skull And Bones Ball",
+	"size": [18, 18],
+	"aiStyle": 15,
+	"timeLeft": 36000,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 7,
+	"scale": 1.0,
+	"damage": 26,
+	"melee": true
+}

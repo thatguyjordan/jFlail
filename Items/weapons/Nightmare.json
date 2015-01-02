@@ -1,0 +1,36 @@
+{
+	"code": "Items.Weapons.Nightmare",
+	"displayName": "Nightmare",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,25,0],	
+	"rare": 1,
+	"useStyle": 5,
+	"useAnimation": 45,
+	"useTime": 45,
+	"damage": 45,
+	"knockback": 6.5,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:NMBall",
+	"shootSpeed": 12,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Blue Moon": 1, "jFlail:The Stinger": 1, "Sunfury": 1, "The Meatball": 1 }, 
+		"tiles": ["Demon Altar"],
+		"creates": 1	
+	},
+	{
+		"items": { "Blue Moon": 1, "jFlail:The Stinger": 1, "Sunfury": 1, "Ball O' Hurt": 1 }, 
+		"tiles": ["Demon Altar"],
+		"creates": 1	
+	}]
+}

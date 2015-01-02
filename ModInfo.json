@@ -1,0 +1,9 @@
+{
+    "internalName" : "jFlail",
+    "displayName": "jFlail",
+    "author": "jordan",
+    "modReferences": ["jLib"],
+    "icon": "Icon",
+    "info": "A mod based around flails, if that wasn't obvious enough. (BETA: For R12)",
+    "version": "0.0.2"
+}

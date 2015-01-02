@@ -1,0 +1,13 @@
+{
+	"displayName": "Boreal Flail Ball",
+	"size": [22, 22],
+	"aiStyle": 15,
+	"timeLeft": 3600,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"scale": 1.0,
+	"penetrate": 2,
+	"damage": 8,
+	"melee": true
+}

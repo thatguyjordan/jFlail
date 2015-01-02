@@ -1,0 +1,13 @@
+{
+	"displayName": "The Stinger Ball",
+	"size": [34, 34],
+	"aiStyle": 15,
+	"timeLeft": 3600,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 8,
+	"scale": 1.0,
+	"damage": 20,
+	"melee": true
+}

@@ -1,0 +1,13 @@
+{
+	"displayName": "Tin Flail Ball",
+	"size": [22, 22],
+	"aiStyle": 15,
+	"timeLeft": 1800,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 3,
+	"scale": 1.0,
+	"damage": 9,
+	"melee": true
+}

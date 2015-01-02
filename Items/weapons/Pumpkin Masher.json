@@ -1,0 +1,31 @@
+{
+	"code": "Items.Weapons.PumpkinMasher",
+	"displayName": "Pumpkin Masher",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,10,0],	
+	"rare": 0,
+	"useStyle": 5,
+	"useAnimation": 49,
+	"useTime": 49,
+	"damage": 13,
+	"knockback": 6,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:PMBall",
+	"shootSpeed": 12,
+	"noUseGraphic": true,
+	"noMelee": true,
+
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Pumpkin": 30, "Chain": 3 }, 
+		"tiles": ["Furnace"],
+		"creates": 1	
+	}]
+}

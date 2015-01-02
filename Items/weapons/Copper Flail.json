@@ -1,0 +1,31 @@
+{
+	"code": "Items.Weapons.CopperFlail",
+	"displayName": "Copper Flail",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,1,0],	
+	"rare": 0,
+	"useStyle": 5,
+	"useAnimation": 52,
+	"useTime": 52,
+	"damage": 10,
+	"knockback": 4,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:CFBall",
+	"shootSpeed": 10,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Copper Bar": 12, "Chain": 3 }, 
+		"tiles": ["Anvil"],
+		"creates": 1	
+	}]
+}

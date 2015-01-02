@@ -1,0 +1,13 @@
+{
+	"displayName": "Coral Crusher Ball",
+	"size": [28, 28],
+	"aiStyle": 15,
+	"timeLeft": 60,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 5,
+	"scale": 1.0,
+	"damage": 20,
+	"melee": true
+}

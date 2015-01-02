@@ -1,0 +1,13 @@
+{
+	"displayName": "Pearlwood Flail Ball",
+	"size": [30, 30],
+	"aiStyle": 15,
+	"timeLeft": 3600,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"scale": 1.0,
+	"penetrate": 7,
+	"damage": 8,
+	"melee": true
+}

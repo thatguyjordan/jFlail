@@ -1,0 +1,31 @@
+{
+	"code": "Items.Weapons.PearlwoodFlail",
+	"displayName": "Pearlwood flail",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,0,5],	
+	"rare": 0,
+	"useStyle": 5,
+	"useAnimation": 53,
+	"useTime": 53,
+	"damage": 19,
+	"knockback": 9,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:PWBall",
+	"shootSpeed": 12.5,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Pearlwood": 25, "Chain": 3 }, 
+		"tiles": [ "Work Bench" ],  
+		"creates": 1	
+	}]
+}

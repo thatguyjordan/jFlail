@@ -1,0 +1,14 @@
+{
+	"displayName": "BubbleProj",
+	"size": [22, 22],
+	"aiStyle": 18,
+	"timeLeft": 30,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": false,
+	"hide": false,
+	"penetrate": 7,
+	"scale": 2.0,
+	"damage": 7,
+	"melee": true
+}

@@ -1,0 +1,14 @@
+{
+	"displayName": "Sand Proj",
+	"size": [14, 14],
+	"aiStyle": 1,
+	"timeLeft": 20,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"hide": true,
+	"penetrate": 7,
+	"scale": 1.0,
+	"damage": 7,
+	"melee": true
+}

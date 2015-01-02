@@ -1,0 +1,31 @@
+{
+	"code": "Items.Weapons.RedPhaseflail",
+	"displayName": "Red Phaseflail",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,60,0],	
+	"rare": 1,
+	"useStyle": 5,
+	"useAnimation": 45,
+	"useTime": 45,
+	"damage": 23,
+	"knockback": 7.5,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:RPFBall",
+	"shootSpeed": 13,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Meteorite Bar": 20, "Ruby": 10, "Chain": 3 }, 
+		"tiles": [ "Anvil" ], 
+		"creates": 1	
+	}]
+}

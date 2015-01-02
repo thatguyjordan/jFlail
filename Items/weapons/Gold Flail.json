@@ -1,0 +1,31 @@
+{
+	"code": "Items.Weapons.GoldFlail",
+	"displayName": "Gold Flail",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,12,0],	
+	"rare": 0,
+	"useStyle": 5,
+	"useAnimation": 42,
+	"useTime": 42,
+	"damage": 19,
+	"knockback": 7,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:GFBall",
+	"shootSpeed": 12.5,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Gold Bar": 12, "Chain": 3 }, 
+		"tiles": ["Anvil"],
+		"creates": 1	
+	}]
+}

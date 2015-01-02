@@ -1,0 +1,31 @@
+{
+	"code": "Items.Weapons.BluePhaseflail",
+	"displayName": "Blue Phaseflail",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,30,0],	
+	"rare": 1,
+	"useStyle": 5,
+	"useAnimation": 45,
+	"useTime": 45,
+	"damage": 20,
+	"knockback": 7,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:BPFBall",
+	"shootSpeed": 12.5,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Meteorite Bar": 20, "Sapphire": 10, "Chain": 3 }, 
+		"tiles": [ "Anvil" ], 
+		"creates": 1	
+	}]
+}

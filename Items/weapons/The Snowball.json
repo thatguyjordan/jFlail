@@ -1,0 +1,36 @@
+{
+	"code": "Items.Weapons.Snowball",
+	"displayName": "The Snowball",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,10,0],	
+	"rare": 1,
+	"useStyle": 5,
+	"useAnimation": 49,
+	"useTime": 49,
+	"damage": 15,
+	"knockback": 5.75,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:SBBall",
+	"shootSpeed": 12,
+	"noUseGraphic": true,
+	"noMelee": true,
+
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Snow Block": 25, "Ice Block": 25, "Chain": 3, "jFlail:Iron Flail": 1 }, 
+		"tiles": [ "Anvil" ],  
+		"creates": 1	
+	},
+	{
+	"items": { "Snow Block": 25, "Ice Block": 25, "Chain": 3, "jFlail:Lead Flail": 1 }, 
+	"tiles": [ "Anvil" ],  
+	"creates": 1	
+	}]
+}

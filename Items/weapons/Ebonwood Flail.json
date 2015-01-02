@@ -1,0 +1,31 @@
+{
+	"code": "Items.Weapons.EbonwoodFlail",
+	"displayName": "Ebonwood flail",
+	"size": [34, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,0,5],	
+	"rare": 0,
+	"useStyle": 5,
+	"useAnimation": 58,
+	"useTime": 58,
+	"damage": 8,
+	"knockback": 8.5,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:EWBall",
+	"shootSpeed": 9,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Ebonwood": 25, "Chain": 3 }, 
+		"tiles": [ "Work Bench" ], 
+		"creates": 1	
+	}]
+}
