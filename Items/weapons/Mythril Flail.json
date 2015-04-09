@@ -1,0 +1,36 @@
+{
+	"code": "Items.Weapons.MythrilFlail",
+	"displayName": "Mythril Flail",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,0,5],	
+	"rare": 7,
+	"useStyle": 5,
+	"useAnimation": 58,
+	"useTime": 58,
+	"damage": 39,
+	"knockback": 4,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:MiBall",
+	"shootSpeed": 8.8,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Mythril Bar": 10 }, 
+		"tiles": [ "Orichalcum Anvil" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "Mythril Bar": 10 }, 
+		"tiles": [ "Mythril Anvil" ], 
+		"creates": 1	
+	}]
+}

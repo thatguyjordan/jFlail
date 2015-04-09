@@ -1,0 +1,41 @@
+{
+	"code": "Items.Weapons.PalladiumFlail",
+	"displayName": "Palladium Flail",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,0,5],	
+	"rare": 7,
+	"useStyle": 5,
+	"useAnimation": 58,
+	"useTime": 58,
+	"damage": 36,
+	"knockback": 4,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:PDBall",
+	"shootSpeed": 5.8,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Palladium Bar": 12 }, 
+		"tiles": [ "Orichalcum Anvil" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "Palladium Bar": 12 }, 
+		"tiles": [ "Mythril Anvil" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "Palladium Bar": 12 }, 
+		"tiles": [ "Anvil" ], 
+		"creates": 1	
+	}]
+}

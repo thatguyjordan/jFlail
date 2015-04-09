@@ -1,0 +1,36 @@
+{
+	"code": "Items.Weapons.ChlorophyteSmasher",
+	"displayName": "Chlorophyte Smasher",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,0,5],	
+	"rare": 7,
+	"useStyle": 5,
+	"useAnimation": 58,
+	"useTime": 58,
+	"damage": 45,
+	"knockback": 4,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:CSBall",
+	"shootSpeed": 8.8,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Chlorophyte Bar": 12 }, 
+		"tiles": [ "Orichalcum Anvil" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "Chlorophyte Bar": 12 }, 
+		"tiles": [ "Mythril Anvil" ], 
+		"creates": 1	
+	}]
+}

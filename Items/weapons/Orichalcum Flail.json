@@ -1,0 +1,36 @@
+{
+	"code": "Items.Weapons.OrichalcumFlail",
+	"displayName": "Orichalcum Flail",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,0,5],	
+	"rare": 7,
+	"useStyle": 5,
+	"useAnimation": 58,
+	"useTime": 58,
+	"damage": 41,
+	"knockback": 4,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:OrBall",
+	"shootSpeed": 8.8,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Orichalcum Bar": 12 }, 
+		"tiles": [ "Orichalcum Anvil" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "Orichalcum Bar": 12 }, 
+		"tiles": [ "Mythril Anvil" ], 
+		"creates": 1	
+	}]
+}

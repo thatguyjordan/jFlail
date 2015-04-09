@@ -1,0 +1,36 @@
+{
+	"code": "Items.Weapons.HallowedFlail",
+	"displayName": "Hallowed Flail",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,1,0],	
+	"rare": 7,
+	"useStyle": 5,
+	"useAnimation": 52,
+	"useTime": 47,
+	"damage": 47,
+	"knockback": 4,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:HaBall",
+	"shootSpeed": 10,
+	"noUseGraphic": true,
+	"noMelee": true,
+	
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	{
+		"items": { "Hallowed Bar": 12 }, 
+		"tiles": [ "Orichalcum Anvil" ], 
+		"creates": 1	
+	},
+	{
+		"items": { "Hallowed Bar": 12 }, 
+		"tiles": [ "Mythril Anvil" ], 
+		"creates": 1	
+	}]
+}
