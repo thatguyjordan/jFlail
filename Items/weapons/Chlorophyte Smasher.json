@@ -14,7 +14,7 @@
 	"useSound": 1,
 	"melee": true,	
 	"shoot": "jFlail:CSBall",
-	"shootSpeed": 20.8,
+	"shootSpeed": 4.8,
 	"noUseGraphic": true,
 	"noMelee": true,
 	
