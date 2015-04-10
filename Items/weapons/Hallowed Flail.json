@@ -9,7 +9,7 @@
 	"useStyle": 5,
 	"useAnimation": 40,
 	"useTime": 40,
-	"damage": 47,
+	"damage": 51,
 	"knockback": 4,
 	"useSound": 1,
 	"melee": true,	
