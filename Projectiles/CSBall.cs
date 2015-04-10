@@ -24,7 +24,7 @@ namespace jFlail.Projectiles
             if (Main.rand.Next(1) == 0)
             {
                 if (Main.rand.Next(15) == 0)
-                Projectile.NewProjectile(projectile.position.X + 3.0f, projectile.position.Y + 1.0f, speedX, speedY, sp, 41, 0, projectile.whoAmI);
+                Projectile.NewProjectile(projectile.position.X + 3.0f, projectile.position.Y + 1.0f, speedX, speedY, sp, 35, 0, projectile.whoAmI);
             }
         }
     }
