@@ -1,0 +1,13 @@
+{
+	"displayName": "Breakfast Flail Ball",
+	"size": [24, 24],
+	"aiStyle": 15,
+	"timeLeft": 3600,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 1,
+	"scale": 1.0,
+	"damage": 1,
+	"melee": true
+}

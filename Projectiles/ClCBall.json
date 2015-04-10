@@ -1,0 +1,13 @@
+{
+	"displayName": "Chlorophyte Crusher Ball",
+	"size": [38, 38],
+	"aiStyle": 15,
+	"timeLeft": 3600,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 12,
+	"scale": 1.0,
+	"damage": 68,
+	"melee": true
+}

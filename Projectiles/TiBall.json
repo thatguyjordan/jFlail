@@ -1,0 +1,13 @@
+{
+	"displayName": "Titanium Flail Ball",
+	"size": [34, 34],
+	"aiStyle": 15,
+	"timeLeft": 3600,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 11,
+	"scale": 1.0,
+	"damage": 46,
+	"melee": true
+}

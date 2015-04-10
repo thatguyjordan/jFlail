@@ -1,0 +1,13 @@
+{
+	"displayName": "Hallowed Flail Ball",
+	"size": [36, 36],
+	"aiStyle": 15,
+	"timeLeft": 3600,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 8,
+	"scale": 1.0,
+	"damage": 47,
+	"melee": true
+}

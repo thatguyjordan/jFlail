@@ -1,0 +1,27 @@
+{
+	"code": "Items.Weapons.TheBalancedBreakfast",
+	"displayName": "The Balanced Breakfast",
+	"size": [32, 32],
+	"maxStack": 1,
+	"channel": true,
+	"value": [0,0,1,50],	
+	"rare": 0,
+	"useStyle": 5,
+	"useAnimation": 50,
+	"useTime": 50,
+	"damage": 1,
+	"knockback": 1,
+	"useSound": 1,
+	"melee": true,	
+	"shoot": "jFlail:BFastBall",
+	"shootSpeed": 10,
+	"noUseGraphic": true,
+	"noMelee": true,
+
+	"recipes":
+	[//{
+	//	"items": { "Dirt Block": 1 }, 
+	//	"creates": 1
+	//},
+	]
+}
