@@ -1,20 +1,20 @@
 {
-	"code": "Items.Weapons.CobaltFlail",
-	"displayName": "Cobalt Flail",
+	"code": "Items.Weapons.ChlorophyteCrusher",
+	"displayName": "Chlorophyte Crusher",
 	"size": [32, 32],
 	"maxStack": 1,
 	"channel": true,
 	"value": [0,0,0,5],	
 	"rare": 7,
 	"useStyle": 5,
-	"useAnimation": 23,
-	"useTime": 23,
-	"damage": 34,
-	"knockback": 3,
+	"useAnimation": 42,
+	"useTime": 42,
+	"damage": 68,
+	"knockback": 18,
 	"useSound": 1,
 	"melee": true,	
-	"shoot": "jFlail:CBBall",
-	"shootSpeed": 14,
+	"shoot": "jFlail:ClCBall",
+	"shootSpeed": 11,
 	"noUseGraphic": true,
 	"noMelee": true,
 	
@@ -24,18 +24,13 @@
 	//	"creates": 1
 	//},
 	{
-		"items": { "Cobalt Bar": 10 }, 
+		"items": { "Chlorophyte Bar": 12 }, 
 		"tiles": [ "Orichalcum Anvil" ], 
 		"creates": 1	
 	},
 	{
-		"items": { "Cobalt Bar": 10 }, 
+		"items": { "Chlorophyte Bar": 12 }, 
 		"tiles": [ "Mythril Anvil" ], 
-		"creates": 1	
-	},
-	{
-		"items": { "Cobalt Bar": 10 }, 
-		"tiles": [ "Anvil" ], 
 		"creates": 1	
 	}]
 }

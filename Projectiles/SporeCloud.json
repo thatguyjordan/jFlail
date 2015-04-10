@@ -1,0 +1,15 @@
+{
+	"displayName": "Spore Cloud",
+	"size": [30, 30],
+	"frameCount": 5,
+	"aiStyle": 44,
+	"timeLeft": 100,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": false,
+	"hide": false,
+	"penetrate": 2,
+	"scale": 2.0,
+	"damage": 41,
+	"melee": true
+}

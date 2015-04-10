@@ -1,0 +1,14 @@
+{
+	"displayName": "Cereal Piece",
+	"size": [8, 12],
+	"aiStyle": 2,
+	"timeLeft": 180,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": false,
+	"hide": false,
+	"penetrate": 2,
+	"scale": 1.0,
+	"damage": 1,
+	"melee": true
+}

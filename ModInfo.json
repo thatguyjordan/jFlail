@@ -4,6 +4,6 @@
     "author": "jordan",
     "modReferences": ["jLib"],
     "icon": "Icon",
-    "info": "A mod based around flails, if that wasn't obvious enough. (BETA: For R12)",
-    "version": "0.0.2"
+    "info": "A mod based around flails, if that wasn't obvious enough. WARNING: BETA, EXPECT STRANGE HAPPENINGS/UNBALENCED ITEMS.",
+    "version": "0.1.0"
 }

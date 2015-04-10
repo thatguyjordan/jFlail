@@ -135,6 +135,46 @@ namespace jFlail
             if (player.inventory[player.selectedItem].type == ItemDef.byName["jFlail:Skull And Bones"].type)
             {
                 Main.chain3Texture = MBase.BaseInstance.textures["Gores/Skull And Bones Chain"];
+            }    
+            if (player.inventory[player.selectedItem].type == ItemDef.byName["jFlail:Adamantite Flail"].type)
+            {
+                Main.chain3Texture = MBase.BaseInstance.textures["Gores/Adamantite Flail Chain"];
+            }
+            if (player.inventory[player.selectedItem].type == ItemDef.byName["jFlail:Chlorophyte Crusher"].type)
+            {
+                Main.chain3Texture = MBase.BaseInstance.textures["Gores/Chlorophyte Flail Chain"];
+            }
+            if (player.inventory[player.selectedItem].type == ItemDef.byName["jFlail:Chlorophyte Smasher"].type)
+            {
+                Main.chain3Texture = MBase.BaseInstance.textures["Gores/Chlorophyte Flail Chain"];
+            }
+            if (player.inventory[player.selectedItem].type == ItemDef.byName["jFlail:Cobalt Flail"].type)
+            {
+                Main.chain3Texture = MBase.BaseInstance.textures["Gores/Cobalt Flail Chain"];
+            }
+            if (player.inventory[player.selectedItem].type == ItemDef.byName["jFlail:Hallowed Flail"].type)
+            {
+                Main.chain3Texture = MBase.BaseInstance.textures["Gores/Hallowed Flail Chain"];
+            }
+            if (player.inventory[player.selectedItem].type == ItemDef.byName["jFlail:Mythril Flail"].type)
+            {
+                Main.chain3Texture = MBase.BaseInstance.textures["Gores/Mythril Flail Chain"];
+            }
+            if (player.inventory[player.selectedItem].type == ItemDef.byName["jFlail:Palladium Flail"].type)
+            {
+                Main.chain3Texture = MBase.BaseInstance.textures["Gores/Palladium Flail Chain"];
+            }
+            if (player.inventory[player.selectedItem].type == ItemDef.byName["jFlail:Orichalcum Flail"].type)
+            {
+                Main.chain3Texture = MBase.BaseInstance.textures["Gores/Orichalcum Flail Chain"];
+            }
+            if (player.inventory[player.selectedItem].type == ItemDef.byName["jFlail:The Balanced Breakfast"].type)
+            {
+                Main.chain3Texture = MBase.BaseInstance.textures["Gores/The Balanced Breakfast Chain"];
+            }
+            if (player.inventory[player.selectedItem].type == ItemDef.byName["jFlail:Titanium Flail"].type)
+            {
+                Main.chain3Texture = MBase.BaseInstance.textures["Gores/Titanium Flail Chain"];
             }
         }
     }

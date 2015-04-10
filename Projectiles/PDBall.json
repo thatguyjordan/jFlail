@@ -1,0 +1,13 @@
+{
+	"displayName": "Palladium Flail Ball",
+	"size": [30, 30],
+	"aiStyle": 15,
+	"timeLeft": 3600,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 6,
+	"scale": 1.0,
+	"damage": 36,
+	"melee": true
+}
