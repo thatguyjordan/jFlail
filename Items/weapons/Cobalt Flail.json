@@ -10,11 +10,11 @@
 	"useAnimation": 23,
 	"useTime": 23,
 	"damage": 34,
-	"knockback": 3,
+	"knockback": 6,
 	"useSound": 1,
 	"melee": true,	
 	"shoot": "jFlail:CBBall",
-	"shootSpeed": 14,
+	"shootSpeed": 17,
 	"noUseGraphic": true,
 	"noMelee": true,
 	

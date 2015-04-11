@@ -10,7 +10,7 @@
 	"useAnimation": 42,
 	"useTime": 42,
 	"damage": 44,
-	"knockback": 4,
+	"knockback": 9,
 	"useSound": 1,
 	"melee": true,	
 	"shoot": "jFlail:ADBall",

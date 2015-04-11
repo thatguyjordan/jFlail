@@ -10,11 +10,11 @@
 	"useAnimation": 32,
 	"useTime": 32,
 	"damage": 36,
-	"knockback": 4,
+	"knockback": 6.5,
 	"useSound": 1,
 	"melee": true,	
 	"shoot": "jFlail:PDBall",
-	"shootSpeed": 10.8,
+	"shootSpeed": 15.8,
 	"noUseGraphic": true,
 	"noMelee": true,
 	

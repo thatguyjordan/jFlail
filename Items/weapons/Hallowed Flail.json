@@ -10,11 +10,11 @@
 	"useAnimation": 40,
 	"useTime": 40,
 	"damage": 51,
-	"knockback": 4,
+	"knockback": 11,
 	"useSound": 1,
 	"melee": true,	
 	"shoot": "jFlail:HaBall",
-	"shootSpeed": 7,
+	"shootSpeed": 13,
 	"noUseGraphic": true,
 	"noMelee": true,
 	

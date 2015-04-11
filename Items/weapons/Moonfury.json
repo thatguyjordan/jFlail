@@ -16,5 +16,16 @@
 	"shoot": "jFlail:MFBall",
 	"shootSpeed": 14,
 	"noUseGraphic": true,
-	"noMelee": true
+	"noMelee": true,
+	"recipes":
+	[{
+		"items": { "Fallen Star": 10, "Cloud": 15, "jFlail:Iron Flail": 1 }, 
+		"tiles": ["Anvil"],
+		"creates": 1	
+	},
+	{
+		"items": { "Fallen Star": 10, "Cloud": 15, "jFlail:Lead Flail": 1 }, 
+		"tiles": ["Anvil"],
+		"creates": 1	
+	}]
 }

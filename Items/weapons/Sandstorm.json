@@ -16,5 +16,11 @@
 	"shoot": "jFlail:SSBall",
 	"shootSpeed": 12,
 	"noUseGraphic": true,
-	"noMelee": true
+	"noMelee": true,
+	"recipes":
+	[{
+		"items": { "Antlion Mandible": 3, "Sand": 100 }, 
+		"tiles": ["Anvil"],
+		"creates": 1	
+	}]
 }

@@ -10,11 +10,11 @@
 	"useAnimation": 34,
 	"useTime": 34,
 	"damage": 41,
-	"knockback": 4,
+	"knockback": 8,
 	"useSound": 1,
 	"melee": true,	
 	"shoot": "jFlail:OrBall",
-	"shootSpeed": 8.8,
+	"shootSpeed": 15.8,
 	"noUseGraphic": true,
 	"noMelee": true,
 	

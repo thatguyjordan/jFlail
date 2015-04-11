@@ -10,11 +10,11 @@
 	"useAnimation": 34,
 	"useTime": 34,
 	"damage": 46,
-	"knockback": 4,
+	"knockback": 10,
 	"useSound": 1,
 	"melee": true,	
 	"shoot": "jFlail:TiBall",
-	"shootSpeed": 8.8,
+	"shootSpeed": 14.5,
 	"noUseGraphic": true,
 	"noMelee": true,
 	

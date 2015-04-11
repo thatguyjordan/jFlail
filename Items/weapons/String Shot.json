@@ -16,5 +16,17 @@
 	"shoot": "jFlail:StSBall",
 	"shootSpeed": 14,
 	"noUseGraphic": true,
-	"noMelee": true
+	"noMelee": true,
+
+	"recipes":
+	[{
+		"items": { "Cobweb": 100, "Violet Husk": 1, "jFlail:Iron Flail": 1 }, 
+		"tiles": ["Anvil"],
+		"creates": 1	
+	},
+	{
+		"items": { "Cobweb": 100, "Violet Husk": 1, "jFlail:Lead Flail": 1 }, 
+		"tiles": ["Anvil"],
+		"creates": 1	
+	}]
 }
