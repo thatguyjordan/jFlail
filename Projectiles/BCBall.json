@@ -1,0 +1,13 @@
+{
+	"displayName": "Ball and Chain Ball",
+	"size": [12, 12],
+	"aiStyle": 15,
+	"timeLeft": 3600,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 7,
+	"scale": 1.0,
+	"damage": 89,
+	"melee": true
+}

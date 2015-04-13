@@ -1,6 +1,6 @@
 {
-	"code": "Items.Weapons.Sandstorm",
-	"displayName": "Sandstorm",
+	"code": "Items.Weapons.ThePlanetoid",
+	"displayName": "The Planetoid",
 	"size": [32, 32],
 	"maxStack": 1,
 	"channel": true,
@@ -9,11 +9,11 @@
 	"useStyle": 5,
 	"useAnimation": 49,
 	"useTime": 49,
-	"damage": 17,
-	"knockback": 6,
+	"damage": 59,
+	"knockback": 9,
 	"useSound": 1,
 	"melee": true,	
-	"shoot": "jFlail:SSBall",
+	"shoot": "jFlail:PTBall",
 	"shootSpeed": 12,
 	"noUseGraphic": true,
 	"noMelee": true

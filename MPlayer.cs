@@ -176,6 +176,18 @@ namespace jFlail
             {
                 Main.chain3Texture = MBase.BaseInstance.textures["Gores/Titanium Flail Chain"];
             }
+            if (player.inventory[player.selectedItem].type == ItemDef.byName["jFlail:The Planetoid"].type)
+            {
+                Main.chain3Texture = MBase.BaseInstance.textures["Gores/Meteor Chain"];
+            }
+            if (player.inventory[player.selectedItem].type == ItemDef.byName["jFlail:Ball and Chain"].type)
+            {
+                Main.chain3Texture = MBase.BaseInstance.textures["Gores/Grapple Chain"];
+            }
+            if (player.inventory[player.selectedItem].type == ItemDef.byName["jFlail:The Galaxy"].type)
+            {
+                Main.chain3Texture = MBase.BaseInstance.textures["Gores/Galactic Chain"];
+            }
         }
     }
 }

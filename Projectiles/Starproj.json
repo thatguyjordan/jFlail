@@ -1,0 +1,15 @@
+{
+	"displayName": "Starproj",
+	"size": [6, 6],
+	"frameCount": 5,
+	"aiStyle": 0,
+	"timeLeft": 100,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": false,
+	"hide": false,
+	"penetrate": 2,
+	"scale": 1.0,
+	"damage": 78,
+	"melee": true
+}

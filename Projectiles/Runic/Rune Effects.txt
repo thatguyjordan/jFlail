@@ -1,0 +1,14 @@
+Just gonna write these down here so I don't forget later
+Earth- Decreases shoot speed but increases knockback, and slightly increases damage.
+Air- The exct opposite, Increases shoot speed but decreases knockback and slightly reduces damage.
+Fire- Increases damage and also cause the flail to give the On Fire! Effect (Or maybe cursed inferno?)
+Water- Decreases damage, but causes the flail to shoot a projectile. (Bubble, or energy?)
+
+
+Simplfied, but no exact numbers yet.
+
+Earth|| Knockback+++ Shoot Speed-- Damage+
+Air|| Shoot Speed+++ Knockback-- Damage-
+Fire|| Damage++ Special: On Fire!
+Water|| Damage- Special: Projectile
+

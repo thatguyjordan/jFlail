@@ -1,0 +1,14 @@
+{
+	"displayName": "Meteoroid",
+	"size": [26, 26],
+	"aiStyle": 8,
+	"timeLeft": 300,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": false,
+	"hide": false,
+	"penetrate": 10,
+	"scale": 1,
+	"damage": 51,
+	"melee": true
+}

@@ -1,0 +1,13 @@
+{
+	"displayName": "Galaxy Ball",
+	"size": [34, 34],
+	"aiStyle": 15,
+	"timeLeft": 3600,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 15,
+	"scale": 1.0,
+	"damage": 93,
+	"melee": true
+}

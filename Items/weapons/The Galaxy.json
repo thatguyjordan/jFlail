@@ -1,6 +1,6 @@
 {
-	"code": "Items.Weapons.Sandstorm",
-	"displayName": "Sandstorm",
+	"code": "Items.Weapons.TheGalaxy",
+	"displayName": "The Galaxy",
 	"size": [32, 32],
 	"maxStack": 1,
 	"channel": true,
@@ -9,12 +9,12 @@
 	"useStyle": 5,
 	"useAnimation": 49,
 	"useTime": 49,
-	"damage": 17,
-	"knockback": 6,
+	"damage": 91,
+	"knockback": 13,
 	"useSound": 1,
 	"melee": true,	
-	"shoot": "jFlail:SSBall",
-	"shootSpeed": 12,
+	"shoot": "jFlail:GABall",
+	"shootSpeed": 16,
 	"noUseGraphic": true,
 	"noMelee": true
 }

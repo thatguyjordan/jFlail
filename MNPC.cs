@@ -21,6 +21,11 @@ namespace jFlail
             {
                 Item.NewItem(X, Y, npc.width, npc.height, ss, 1, false, 0, false);
             }
+            int pt = ItemDef.byName["jFlail:The Planetoid"].type;
+            if ((npc.type == 284) && Main.rand.Next(33) == 0)
+            {
+                Item.NewItem(X, Y, npc.width, npc.height, ss, 1, false, 0, false);
+            }
         }
     }
 }

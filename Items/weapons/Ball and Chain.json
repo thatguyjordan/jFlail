@@ -1,6 +1,6 @@
 {
-	"code": "Items.Weapons.Sandstorm",
-	"displayName": "Sandstorm",
+	"code": "Items.Weapons.BallandChain",
+	"displayName": "Ball and Chain",
 	"size": [32, 32],
 	"maxStack": 1,
 	"channel": true,
@@ -9,12 +9,12 @@
 	"useStyle": 5,
 	"useAnimation": 49,
 	"useTime": 49,
-	"damage": 17,
-	"knockback": 6,
+	"damage": 89,
+	"knockback": 17,
 	"useSound": 1,
 	"melee": true,	
-	"shoot": "jFlail:SSBall",
-	"shootSpeed": 12,
+	"shoot": "jFlail:BCBall",
+	"shootSpeed": 5,
 	"noUseGraphic": true,
 	"noMelee": true
 }
